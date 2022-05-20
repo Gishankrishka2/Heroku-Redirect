@@ -114,7 +114,7 @@ html {
 body {
     font-family: Roboto, sans-serif;
     color: #515a6e;
-    background: linear-gradient(to right top, #41e4dc, #0ef10e);
+    background: linear-gradient(to right top, #ff0000, #f700ff);
     height: 100%;
     margin: 0;
     overflow: hidden;
